@@ -13,3 +13,7 @@ class Solution:
 obj = Solution()
 
 print(obj.KandN(56000000000000, 100000000))
+
+
+# x: int = "asds"
+# print(x)
